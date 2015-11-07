@@ -9,6 +9,9 @@ Share your Pico post to any social media. Powered by AddToAny.
 3. Add code `{{ pico_post_share }}` to your theme.
 4. That's it.
 
+### Screenshot
+<img src="http://renhard.net/github/pico_post_share/pico_post_share-share.png" alt="Pico Post Share">
+
 ### About AddToAny
 The Universal Sharing Platform [https://www.addtoany.com/](https://www.addtoany.com/)
 
