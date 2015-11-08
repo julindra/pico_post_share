@@ -4,7 +4,8 @@
 Share your Pico post to any social media. Powered by AddToAny.
 
 ### Instalation
-1. [Download](https://github.com/julindra/pico_post_share/archive/master.zip).
+1. For Pico 0.9 [Download this](https://github.com/julindra/pico_post_share/releases/tag/v1.0).
+   For Pico 1.0 [Download this]().	
 2. Extract and copy folder `pico_post_share` to your Pico `plugins` folder.
 3. Add code `{{ pico_post_share }}` to your theme.
 4. That's it.
