@@ -3,6 +3,10 @@
 ### About
 Share your Pico post to any social media. Powered by AddToAny.
 
+### TODO
+- Upgrade compability to Pico 1.0
+- Share counter feature
+
 ### Instalation
 1. For Pico 0.9 [Download this](https://github.com/julindra/pico_post_share/releases/tag/v1.0).
    For Pico 1.0 [Download this]().	
